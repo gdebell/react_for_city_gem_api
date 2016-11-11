@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #e91e63;
+  height: 300px;
+  color: white;
+  margin-top: -75px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+/*create the circle*/
+header {
+    display: block;
+    height: 250px;
+    width: 250px;
+    line-height: 60px;
+    -moz-border-radius: 1500px; /* or 50% */
+    border-radius: 150px; /* or 50% */
+    background-color: white;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 55px;
+}
